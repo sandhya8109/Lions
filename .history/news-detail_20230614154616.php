@@ -110,8 +110,8 @@ include('nav.php')
                                 </div>
                             </div>
 
-                            <p>You are not allowed to use this picture else Please <a href="./contact"
-                                    target="_blank">contact us</a> for more
+                            <p>You are not allowed to
+                                collection website. Please <a href="./contact" target="_blank">contact us</a> for more
                                 information.</p>
 
                             <div class="social-share border-top mt-5 py-4 d-flex flex-wrap align-items-center">

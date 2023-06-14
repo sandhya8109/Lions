@@ -64,15 +64,12 @@ include('nav.php')
                             </div>
 
                             <div class="news-block-title mb-2">
-                                <h4>लायन्स क्लब्स अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५</h4>
+                                <h4>Clothing donation to urban area</h4>
                             </div>
 
                             <div class="news-block-body">
-                                <p><strong>लायन्स क्लब्स</strong> अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो
-                                    वार्षिक कन्भेन्सन आगामी चैत ११ गते हुने जानकारी हिजो काठमाडौमा एक कार्यक्रमका बिच
-                                    गराईयो। स्वास्थ्य, शिक्षा, वातावरण, मानवीय सहायता, नेतृत्व विकास साथै जनचेतनामुलक
-                                    कार्यमा समर्पित लायन्स क्लब अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको वार्षिक
-                                    जिल्ला अधिवेशन काठमाडौंस्थित राष्ट्रिय सभा गृह, प्रदशनी मार्गको सभाहलमा हुनेछ ।</p>
+                                <p><strong>Lorem Ipsum</strong> dolor sit amet, consectetur adipsicing kengan omeg
+                                    kohm tokito Professional charity theme based on Bootstrap</p>
 
                                 <p><strong>लायन्स क्लब्स</strong> अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो
                                     वार्षिक कन्भेन्सन आगामी चैत ११ गते हुने जानकारी हिजो काठमाडौमा एक कार्यक्रमका बिच
@@ -94,8 +91,8 @@ include('nav.php')
                                     क्लबहरु लायन्स क्लब अफ काठमाडौं अग्रणी, काठमाडौं बनस्थली र काठमाडौं उपकारले होस्ट
                                     क्लबको जिम्मेवारी प्राप्त गरेका छन् ।</p>
 
-                                <blockquote>लायन्स क्लब्स अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो वार्षिक
-                                    कन्भेन्सन आगामी चैत ११ गते हुने जानकारी हिजो</blockquote>
+                                <blockquote>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis
+                                    metus elementum, tempor risus vel, condimentum orci.</blockquote>
                             </div>
 
                             <div class="row mt-5 mb-4">
@@ -110,8 +107,8 @@ include('nav.php')
                                 </div>
                             </div>
 
-                            <p>You are not allowed to use this picture else Please <a href="./contact"
-                                    target="_blank">contact us</a> for more
+                            <p>You are not allowed to
+                                collection website. Please <a href="./contact" target="_blank">contact us</a> for more
                                 information.</p>
 
                             <div class="social-share border-top mt-5 py-4 d-flex flex-wrap align-items-center">
@@ -147,7 +144,8 @@ include('nav.php')
                                 <div class="author-comment-info ms-3">
                                     <h6 class="mb-1">Jack</h6>
 
-                                    <p class="mb-0">Lions Club international Thank you.</p>
+                                    <p class="mb-0">Kind Heart Charity is the most supportive organization. This is
+                                        Bootstrap 5 HTML CSS template for everyone. Thank you.</p>
 
                                     <div class="d-flex mt-2">
                                         <a href="#" class="author-comment-link me-3">Like</a>

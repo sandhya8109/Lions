@@ -110,8 +110,8 @@ include('nav.php')
                                 </div>
                             </div>
 
-                            <p>You are not allowed to use this picture else Please <a href="./contact"
-                                    target="_blank">contact us</a> for more
+                            <p>You are not allowed to
+                                collection website. Please <a href="./contact" target="_blank">contact us</a> for more
                                 information.</p>
 
                             <div class="social-share border-top mt-5 py-4 d-flex flex-wrap align-items-center">
@@ -147,7 +147,8 @@ include('nav.php')
                                 <div class="author-comment-info ms-3">
                                     <h6 class="mb-1">Jack</h6>
 
-                                    <p class="mb-0">Lions Club international Thank you.</p>
+                                    <p class="mb-0">Kind Heart Charity is the most supportive organization. This is
+                                        Bootstrap 5 HTML CSS template for everyone. Thank you.</p>
 
                                     <div class="d-flex mt-2">
                                         <a href="#" class="author-comment-link me-3">Like</a>

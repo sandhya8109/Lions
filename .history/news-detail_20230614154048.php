@@ -64,38 +64,19 @@ include('nav.php')
                             </div>
 
                             <div class="news-block-title mb-2">
-                                <h4>लायन्स क्लब्स अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५</h4>
+                                <h4>Clothing donation to urban area</h4>
                             </div>
 
                             <div class="news-block-body">
-                                <p><strong>लायन्स क्लब्स</strong> अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो
-                                    वार्षिक कन्भेन्सन आगामी चैत ११ गते हुने जानकारी हिजो काठमाडौमा एक कार्यक्रमका बिच
-                                    गराईयो। स्वास्थ्य, शिक्षा, वातावरण, मानवीय सहायता, नेतृत्व विकास साथै जनचेतनामुलक
-                                    कार्यमा समर्पित लायन्स क्लब अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको वार्षिक
-                                    जिल्ला अधिवेशन काठमाडौंस्थित राष्ट्रिय सभा गृह, प्रदशनी मार्गको सभाहलमा हुनेछ ।</p>
+                                <p><strong>Lorem Ipsum</strong> dolor sit amet, consectetur adipsicing kengan omeg
+                                    kohm tokito Professional charity theme based on Bootstrap</p>
 
-                                <p><strong>लायन्स क्लब्स</strong> अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो
-                                    वार्षिक कन्भेन्सन आगामी चैत ११ गते हुने जानकारी हिजो काठमाडौमा एक कार्यक्रमका बिच
-                                    गराईयो। स्वास्थ्य, शिक्षा, वातावरण, मानवीय सहायता, नेतृत्व विकास साथै जनचेतनामुलक
-                                    कार्यमा समर्पित लायन्स क्लब अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको वार्षिक
-                                    जिल्ला अधिवेशन काठमाडौंस्थित राष्ट्रिय सभा गृह, प्रदशनी मार्गको सभाहलमा हुनेछ ।
-                                    आइतबार एक कार्यक्रमबीच डिष्ट्रिक्ट गभर्नर ध्रुव श्रेष्ठले कन्भेन्सन कल गर्नुभएको छ।
-                                    डिष्ट्रिक्ट अन्तर्गत रहेका १२ जिल्लाका ८ सयदेखि १ हजार जना लायनहरुको उपस्थितिमा
-                                    कन्भेन्सन सम्पन्न हुने छ। कन्भेनरको जिम्मेवारी डिष्ट्रिक्ट एड्मिन्ट्रेटिभ चिफ लायन
-                                    मिलन बाबु मल्लले प्राप्त गर्नुभएको छ।अधिवेशनमा वार्षिक प्राप्त उपलब्धीहरुको समिक्षा,
-                                    पुरस्कारहरु वितरण लगायतका गतिविधिसहित आगामी वर्षका लागि नयाँ नेतृत्व चयन गर्ने
-                                    कार्यक्रम छ । जुलाई १ देखि शुरु हुने कार्यकालको लागि तयारी गर्न यो विचको समय उपलब्ध
-                                    गराउने लायन्सको परम्परा छ । उक्त अवसरमा अन्तर्राष्ट्रिय स्तरमा नै ख्याति प्राप्त ‘कि
-                                    नोट स्पिकर’हरु पनि सहभागी गराउने कार्यक्रम रहेको छ। कन्भेन्सन व्यवस्थित, सुविधा
-                                    सम्पन्न र उत्कृष्ट तवरले सम्पन्न गर्न डिष्ट्रिक्ट गर्भनर ध्रुव श्रेष्ठको नेतृत्वमा
-                                    ३९७ सदस्यीय मूल आयोजक कमिटि गठन गरिएको छ । २२ वटा विभिन्न शीर्षकका उपसमितिहरु तथा
-                                    सल्लाहकार मण्डल समेत गठन गरिएको छ । उक्त समितिमा १७४ जना लायन्स लिडरहरुले
-                                    प्रतिनिधित्व छ ।कार्यक्रम व्यवस्थापन गर्नको लागि काठमाडौं क्षेत्रका ३ वटा लायन्स
-                                    क्लबहरु लायन्स क्लब अफ काठमाडौं अग्रणी, काठमाडौं बनस्थली र काठमाडौं उपकारले होस्ट
-                                    क्लबको जिम्मेवारी प्राप्त गरेका छन् ।</p>
+                                <p><strong>Sed leo</strong> nisl, This is a Bootstrap 5.2.2 CSS template for charity
+                                    organization websites. You can feel free to use it. Please tell your friends
+                                    about TemplateMo website. Thank you.</p>
 
-                                <blockquote>लायन्स क्लब्स अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो वार्षिक
-                                    कन्भेन्सन आगामी चैत ११ गते हुने जानकारी हिजो</blockquote>
+                                <blockquote>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis
+                                    metus elementum, tempor risus vel, condimentum orci.</blockquote>
                             </div>
 
                             <div class="row mt-5 mb-4">
@@ -110,8 +91,8 @@ include('nav.php')
                                 </div>
                             </div>
 
-                            <p>You are not allowed to use this picture else Please <a href="./contact"
-                                    target="_blank">contact us</a> for more
+                            <p>You are not allowed to redistribute this template ZIP file on any other template
+                                collection website. Please <a href="./contact" target="_blank">contact us</a> for more
                                 information.</p>
 
                             <div class="social-share border-top mt-5 py-4 d-flex flex-wrap align-items-center">
@@ -147,7 +128,8 @@ include('nav.php')
                                 <div class="author-comment-info ms-3">
                                     <h6 class="mb-1">Jack</h6>
 
-                                    <p class="mb-0">Lions Club international Thank you.</p>
+                                    <p class="mb-0">Kind Heart Charity is the most supportive organization. This is
+                                        Bootstrap 5 HTML CSS template for everyone. Thank you.</p>
 
                                     <div class="d-flex mt-2">
                                         <a href="#" class="author-comment-link me-3">Like</a>
@@ -162,7 +144,7 @@ include('nav.php')
                                     class="img-fluid avatar-image" alt="">
 
                                 <div class="author-comment-info ms-3">
-                                    <h6 class="mb-1">Loe</h6>
+                                    <h6 class="mb-1">Daisy</h6>
 
                                     <p class="mb-0">Sed leo nisl, posuere at molestie ac, suscipit auctor mauris.
                                         Etiam quis metus elementum, tempor risus vel, condimentum orci</p>

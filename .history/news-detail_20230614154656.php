@@ -110,7 +110,7 @@ include('nav.php')
                                 </div>
                             </div>
 
-                            <p>You are not allowed to use this picture else Please <a href="./contact"
+                            <p>You are not allowed touse this picture else Please <a href="./contact"
                                     target="_blank">contact us</a> for more
                                 information.</p>
 
