@@ -1,7 +1,6 @@
 <?php
 include('nav.php')
-    ?>
-
+?>
 <main>
 
     <section class="news-detail-header-section text-center">

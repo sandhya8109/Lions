@@ -4,21 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <meta name="description" content="">
     <meta name="author" content="">
-
-    <title>Lions Club </title>
-
+    <title>Lions Club International </title>
     <!-- CSS FILES -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
     <link href="css/bootstrap-icons.css" rel="stylesheet">
-
-    <link href="css/templatemo-kind-heart-charity.css" rel="stylesheet">
-
-
-
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body id="section_1">
@@ -49,13 +41,9 @@
                         </a>
                     </p>
                 </div>
-
-
-
             </div>
         </div>
     </header>
-
     <nav class="navbar navbar-expand-lg bg-light shadow-lg">
         <div class="container">
 

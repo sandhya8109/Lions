@@ -1,15 +1,13 @@
 <footer class="site-footer">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-12 mb-4">
+            <div class="col-lg-4 col-12 mb-4">
                 <a class="navbar-brand" href="index.html">
-                    <img src="images/logo.png" class="logo img-fluid" alt="Kind Heart Charity">
-                    <span>
-                        The Lions Club
-                        <small>325 M</small>
+                    <img src="images/logo.png" class="footer-logo img-fluid d-flex justify-content-center" alt="Lions CLub">
+                    <span>Lions Club International
+                        <small class="text-white">District 325 M, Nepal</small>
                     </span>
                 </a>
-
             </div>
 
             <div class="col-lg-4 col-md-6 col-12 mb-4">
@@ -51,15 +49,7 @@
                     <i class="bi-geo-alt me-2"></i>
                     Kathmandu, Nepal
                 </p>
-
-                <a href="#" class="custom-btn btn mt-3">Get Direction</a>
-            </div>
-            <div class="col-lg-6 col-md-7 col-12">
-                <p class="copyright-text mb-0">Copyright © 2023 Lions Club 325 M
-                </p>
-            </div>
-
-            <div class="col-lg-6 col-md-5 col-12 d-flex justify-content-center align-items-center mx-auto">
+        
                 <ul class="social-icon">
                     <li class="social-icon-item">
                         <a href="#" class="social-icon-link bi-twitter"></a>
@@ -81,16 +71,14 @@
                         <a href="https://youtube.com/templatemo" class="social-icon-link bi-youtube"></a>
                     </li>
                 </ul>
-            </div>
+                </div>
         </div>
     </div>
 
     <div class="site-footer-bottom">
         <div class="container">
             <div class="row">
-
-
-
+            <p class="copyright-text mb-0 justify-content-center">Copyright © 2023 Lions Club 325 M</p>
             </div>
         </div>
     </div>

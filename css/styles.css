@@ -565,14 +565,11 @@ strong {
 
 #hero-slide .carousel-caption {
   background: #17151575;
-
   color: white;
-
   bottom: -1px;
   right: 0;
   left: 0;
   text-align: center;
-
   padding: 10px;
 }
 
@@ -1261,7 +1258,7 @@ blockquote::before {
   background-color: var(--secondary-color);
   position: relative;
   z-index: 2;
-  margin-top: 70px;
+  margin-top: 20px;
   padding-top: 25px;
   padding-bottom: 25px;
 }
@@ -1282,6 +1279,7 @@ blockquote::before {
   color: var(--section-bg-color);
   font-size: var(--copyright-font-size);
   margin-right: 30px;
+  display: flex;
   justify-content: center;
 }
 
@@ -1297,7 +1295,7 @@ blockquote::before {
   FOOTER MENU               
 -----------------------------------------*/
 .footer-menu {
-  column-count: 2;
+  column-count: 1;
   margin: 0;
   padding: 0;
 }
@@ -1315,7 +1313,10 @@ blockquote::before {
   margin-right: 10px;
   margin-bottom: 5px;
 }
-
+.footer-logo{
+  width: 150px;
+  height: auto;
+}
 /*---------------------------------------
   SOCIAL ICON               
 -----------------------------------------*/

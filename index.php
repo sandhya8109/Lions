@@ -1,7 +1,7 @@
 <?php
 include('nav.php') ?>
 <main>
-
+<!--Slider start-->
     <section class="hero-section hero-section-full-height">
         <div class="container-fluid">
             <div class="row">
@@ -32,7 +32,6 @@ include('nav.php') ?>
 
                                 <div class="carousel-caption d-flex flex-column justify-content-end">
                                     <h1>Suwasta Sibir</h1>
-
                                     <p>You can support us to grow more</p>
                                 </div>
                             </div>
@@ -66,8 +65,9 @@ include('nav.php') ?>
             </div>
         </div>
     </section>
+<!--Slider end-->
 
-
+<!--Welcome start-->
     <section class="section-padding">
         <div class="container">
             <div class="row">
@@ -127,29 +127,24 @@ include('nav.php') ?>
                                             width="140" height="auto" alt="">
                                     </a>
                                 </div>
-
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
-
         </div>
         </div>
     </section>
+<!--Welcome end-->
 
-
-
+<!--Member start-->
     <section class="about-section section-padding">
         <div class="container">
             <div class="row">
-
                 <div class="col-lg-6 col-md-5 col-12">
                     <img src="images/portrait-volunteer-who-organized-donations-charity.jpg"
                         class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="">
                 </div>
-
                 <div class="col-lg-5 col-md-7 col-12">
                     <div class="custom-text-block">
                         <h2 class="mb-0">Lion Mahendra Paudel </h2>
@@ -176,11 +171,12 @@ include('nav.php') ?>
                         </ul>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
+<!--Member end-->
 
+<!--Donate start-->
     <section class="cta-section section-padding section-bg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
@@ -198,8 +194,9 @@ include('nav.php') ?>
             </div>
         </div>
     </section>
+<!--Donate end-->
 
-
+<!--Program start-->
     <section class="section-padding" id="section_3">
         <div class="container">
             <div class="row">
@@ -216,14 +213,8 @@ include('nav.php') ?>
                         <div class="custom-block">
                             <div class="custom-block-body">
                                 <h5 class="mb-3">Children Education</h5>
-
                                 <p>Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito</p>
-
-
-
-
                             </div>
-
                             <a href="donate.html" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
@@ -233,19 +224,12 @@ include('nav.php') ?>
                     <div class="custom-block-wrap">
                         <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg"
                             class="custom-block-image img-fluid" alt="">
-
                         <div class="custom-block">
                             <div class="custom-block-body">
                                 <h5 class="mb-3">Poverty Development</h5>
-
                                 <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus
                                     tempor</p>
-
-
-
-
                             </div>
-
                             <a href="donate.html" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
@@ -259,24 +243,19 @@ include('nav.php') ?>
                         <div class="custom-block">
                             <div class="custom-block-body">
                                 <h5 class="mb-3">Supply drinking water</h5>
-
                                 <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus
                                 </p>
-
-
-
-
                             </div>
-
                             <a href="donate.html" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
+<!--Program end-->
 
+<!--Volunteer start-->
     <section class="volunteer-section section-padding" id="section_4">
         <div class="container">
             <div class="row">
@@ -335,7 +314,9 @@ include('nav.php') ?>
             </div>
         </div>
     </section>
+<!--Volunteer end-->
 
+<!--News start-->
     <section class="news-section section-padding" id="section_5">
         <div class="container">
             <div class="row">
@@ -351,18 +332,15 @@ include('nav.php') ?>
                                 <img src="images/news/medium-shot-volunteers-with-clothing-donations.jpg"
                                     class="news-image img-fluid" alt="">
                             </a>
-
                             <div class="news-category-block">
                                 <a href="#" class="category-block-link">
                                     Lion Club,
                                 </a>
-
                                 <a href="#" class="category-block-link">
                                     Convention
                                 </a>
                             </div>
                         </div>
-
                         <div class="news-block-info">
                             <div class="d-flex mt-2">
                                 <div class="news-block-date">
@@ -392,7 +370,6 @@ include('nav.php') ?>
                                         लायन्स क्लब्स अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो वार्षिक
                                         कन्भेन्सन आगामी चैत ११ गते हुने</a></h4>
                             </div>
-
                             <div class="news-block-body">
                                 <p>लायन्स क्लब्स अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो वार्षिक कन्भेन्सन
                                     आगामी चैत ११ गते हुने जानकारी हिजो काठमाडौमा एक कार्यक्रमका बिच गराईयो। स्वास्थ्य,
@@ -422,8 +399,6 @@ include('nav.php') ?>
 
                     <div class="news-block mt-3">
                         <div class="news-block-top">
-
-
                             <div class="news-category-block">
                                 <a href="#" class="category-block-link">
                                     Food,
@@ -438,8 +413,6 @@ include('nav.php') ?>
                                 </a>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
 
@@ -576,11 +549,9 @@ include('nav.php') ?>
             </div>
         </div>
     </section>
+<!---News end-->
 
-
-
-
-
+<!--Contact start-->
     <section class="contact-section section-padding" id="section_6">
         <div class="container">
             <div class="row">
@@ -660,6 +631,8 @@ include('nav.php') ?>
             </div>
         </div>
     </section>
+<!--Contact end-->
+
 </main>
 <?php
 include('footer.php') ?>
