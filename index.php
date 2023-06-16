@@ -301,7 +301,7 @@ include('nav.php') ?>
                 </div>
 
                 <div class="col-lg-6 col-12">
-                    <img src="images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+                    <img src="images/bluelion.jpg"
                         class="volunteer-image img-fluid" alt="">
 
                     <div class="custom-block-body text-center">
