@@ -93,8 +93,9 @@
 
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link click-scroll dropdown-toggle" href="" id="navbarLightDropdownMenuLink"
-                            role="button" data-bs-toggle="dropdown" aria-expanded="false">District Officers</a>
+                        <a class="nav-link click-scroll dropdown-toggle" href="#section_5"
+                            id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">District Officers</a>
 
                         <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
                             <li><a class="dropdown-item" href="governor.php">Governor Team</a></li>
