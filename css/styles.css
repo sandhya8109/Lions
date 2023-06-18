@@ -1246,11 +1246,15 @@ blockquote::before {
   margin-bottom: 0;
 }
 
-/*** Team ***/
-.team-item {
-  box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+/*** Club ***/
+.club-item img {
+    transition: .5s;
 }
 
+.club-item:hover img {
+    transform: scale(1.1);
+}
+/*** Team ***/
 .team-item img {
   transition: .5s;
 }
@@ -1259,35 +1263,6 @@ blockquote::before {
   transform: scale(1.1);
 }
 
-.team-item .team-social {
-  position: absolute;
-  width: 0;
-  height: 0;
-  top: 50%;
-  left: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: rgba(22, 22, 22, .7);
-  opacity: 0;
-  transition: .5s;
-}
-
-.team-item:hover .team-social {
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  opacity: 1;
-}
-
-.team-item .team-social .btn {
-  opacity: 0;
-}
-
-.team-item:hover .team-social .btn {
-  opacity: 1;
-}
 /*---------------------------------------
   SITE FOOTER              
 -----------------------------------------*/

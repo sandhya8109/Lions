@@ -95,7 +95,7 @@
                             aria-expanded="false">District Officers</a>
 
                         <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                            <li><a class="dropdown-item" href="news.php">Governor Team</a></li>
+                            <li><a class="dropdown-item" href="governor.php">Governor Team</a></li>
 
                             <li><a class="dropdown-item" href="news-detail.php">Advisor Council</a></li>
                             <li><a class="dropdown-item" href="news-detail.php">Coordinators</a></li>
