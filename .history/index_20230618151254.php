@@ -399,15 +399,15 @@ include('nav.php') ?>
                     <div class="news-block mt-3">
                         <div class="news-block-top">
                             <div class="news-category-block">
-                                <a href="./news.php" class="category-block-link">
+                                <a href="#" class="category-block-link">
                                     Food,
                                 </a>
 
-                                <a href="./news.php" class="category-block-link">
+                                <a href="#" class="category-block-link">
                                     Donation,
                                 </a>
 
-                                <a href="./news.php" class="category-block-link">
+                                <a href="#" class="category-block-link">
                                     Caring
                                 </a>
                             </div>

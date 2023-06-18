@@ -188,7 +188,7 @@ include('nav.php') ?>
                 <div class="col-lg-5 col-12">
                     <a href="./donate.php" class="me-4">Make a donation</a>
 
-                    <a href="./login.php" class="custom-btn btn smoothscroll">Become a volunteer</a>
+                    <a href="./login.php.php" class="custom-btn btn smoothscroll">Become a volunteer</a>
                 </div>
 
             </div>
@@ -399,15 +399,15 @@ include('nav.php') ?>
                     <div class="news-block mt-3">
                         <div class="news-block-top">
                             <div class="news-category-block">
-                                <a href="./news.php" class="category-block-link">
+                                <a href="#" class="category-block-link">
                                     Food,
                                 </a>
 
-                                <a href="./news.php" class="category-block-link">
+                                <a href="#" class="category-block-link">
                                     Donation,
                                 </a>
 
-                                <a href="./news.php" class="category-block-link">
+                                <a href="#" class="category-block-link">
                                     Caring
                                 </a>
                             </div>
