@@ -215,7 +215,7 @@ include('nav.php') ?>
                                 <h5 class="mb-3">Children Education</h5>
                                 <p>Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito</p>
                             </div>
-                            <a href="program.php" class="custom-btn btn">Read More</a>
+                            <a href="donate.html" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -230,7 +230,7 @@ include('nav.php') ?>
                                 <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus
                                     tempor</p>
                             </div>
-                            <a href="program.php" class="custom-btn btn">Read More</a>
+                            <a href="donate.html" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@ include('nav.php') ?>
                                 <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus
                                 </p>
                             </div>
-                            <a href="program.php" class="custom-btn btn">Read More</a>
+                            <a href="donate.php" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -327,7 +327,7 @@ include('nav.php') ?>
                 <div class="col-lg-7 col-12">
                     <div class="news-block">
                         <div class="news-block-top">
-                            <a href="news-detail.php">
+                            <a href="news-detail.html">
                                 <img src="images/news/medium-shot-volunteers-with-clothing-donations.jpg"
                                     class="news-image img-fluid" alt="">
                             </a>
@@ -365,7 +365,7 @@ include('nav.php') ?>
                             </div>
 
                             <div class="news-block-title mb-2">
-                                <h4><a href="news-detail.php" class="news-block-title-link">
+                                <h4><a href="news-detail.html" class="news-block-title-link">
                                         लायन्स क्लब्स अन्तर्राष्ट्रिय, डिष्ट्रिक्ट ३२५ जे, नेपालको पहिलो वार्षिक
                                         कन्भेन्सन आगामी चैत ११ गते हुने</a></h4>
                             </div>
@@ -428,7 +428,7 @@ include('nav.php') ?>
 
                     <div class="news-block news-block-two-col d-flex mt-4">
                         <div class="news-block-two-col-image-wrap">
-                            <a href="news-detail.php">
+                            <a href="news-detail.html">
                                 <img src="images/news/africa-humanitarian-aid-doctor.jpg" class="news-image img-fluid"
                                     alt="">
                             </a>
@@ -436,7 +436,7 @@ include('nav.php') ?>
 
                         <div class="news-block-two-col-info">
                             <div class="news-block-title mb-2">
-                                <h6><a href="news-detail.php" class="news-block-title-link">Food donation area</a>
+                                <h6><a href="news-detail.html" class="news-block-title-link">Food donation area</a>
                                 </h6>
                             </div>
 
@@ -451,7 +451,7 @@ include('nav.php') ?>
 
                     <div class="news-block news-block-two-col d-flex mt-4">
                         <div class="news-block-two-col-image-wrap">
-                            <a href="news-detail.php">
+                            <a href="news-detail.html">
                                 <img src="images/news/close-up-happy-people-working-together.jpg"
                                     class="news-image img-fluid" alt="">
                             </a>
@@ -459,7 +459,7 @@ include('nav.php') ?>
 
                         <div class="news-block-two-col-info">
                             <div class="news-block-title mb-2">
-                                <h6><a href="news-detail.php" class="news-block-title-link">Volunteering Clean</a>
+                                <h6><a href="news-detail.html" class="news-block-title-link">Volunteering Clean</a>
                                 </h6>
                             </div>
 

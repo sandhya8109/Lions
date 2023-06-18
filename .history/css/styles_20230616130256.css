@@ -115,6 +115,7 @@ h1 {
 h2 {
   color: var(--secondary-color);
   font-size: var(--h2-font-size);
+  letter-spacing: -2px;
 }
 
 h3 {
@@ -725,7 +726,6 @@ strong {
   width: 300px;
   height: 300px;
   object-fit: cover;
-  margin-top: 115px;
 }
 
 .volunteer-section .custom-block-body {
@@ -1246,31 +1246,19 @@ blockquote::before {
   margin-bottom: 0;
 }
 
-<<<<<<< Updated upstream
-/*** Club ***/
-.club-item img {
-    transition: .5s;
-=======
 /*** Team ***/
 .team-item {
-  box-shadow: 0 0 45px rgba(0, 0, 0, 0.08);
->>>>>>> Stashed changes
+  box-shadow: 0 0 45px rgba(0, 0, 0, .08);
 }
 
-.club-item:hover img {
-    transform: scale(1.1);
-}
-/*** Team ***/
 .team-item img {
-  transition: 0.5s;
+  transition: .5s;
 }
 
 .team-item:hover img {
   transform: scale(1.1);
 }
 
-<<<<<<< Updated upstream
-=======
 .team-item .team-social {
   position: absolute;
   width: 0;
@@ -1280,9 +1268,9 @@ blockquote::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(22, 22, 22, 0.7);
+  background: rgba(22, 22, 22, .7);
   opacity: 0;
-  transition: 0.5s;
+  transition: .5s;
 }
 
 .team-item:hover .team-social {
@@ -1300,7 +1288,6 @@ blockquote::before {
 .team-item:hover .team-social .btn {
   opacity: 1;
 }
->>>>>>> Stashed changes
 /*---------------------------------------
   SITE FOOTER              
 -----------------------------------------*/
@@ -1368,7 +1355,7 @@ blockquote::before {
   margin-right: 10px;
   margin-bottom: 5px;
 }
-.footer-logo {
+.footer-logo{
   width: 150px;
   height: auto;
 }
@@ -1566,7 +1553,7 @@ blockquote::before {
   .volunteer-image {
     width: 250px;
     height: 250px;
-    margin-top: 0;
+    margin: 0;
   }
 
   .custom-text-block {

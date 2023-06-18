@@ -64,10 +64,10 @@
                 <ul class="navbar-nav ms-auto">
 
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href=""></a>
+                        <a class="nav-link click-scroll" href="./index.php"></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="./index.php">Home</a>
+                        <a class="nav-link click-scroll" href="./index.php">home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link click-scroll" href="./about.php">About</a>
@@ -98,7 +98,7 @@
                             aria-expanded="false">District Officers</a>
 
                         <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                            <li><a class="dropdown-item" href="governor.php">Governor Team</a></li>
+                            <li><a class="dropdown-item" href="news.php">Governor Team</a></li>
 
                             <li><a class="dropdown-item" href="news-detail.php">Advisor Council</a></li>
                             <li><a class="dropdown-item" href="news-detail.php">Coordinators</a></li>
@@ -108,7 +108,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="./program.php">Programme/Projects</a>
+                        <a class="nav-link click-scroll" href="#section_9">Programme/Projects</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link click-scroll" href="./news.php">News&Events</a>

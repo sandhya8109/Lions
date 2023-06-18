@@ -725,7 +725,7 @@ strong {
   width: 300px;
   height: 300px;
   object-fit: cover;
-  margin-top: 115px;
+  margin-top: 155px;
 }
 
 .volunteer-section .custom-block-body {
@@ -1246,21 +1246,11 @@ blockquote::before {
   margin-bottom: 0;
 }
 
-<<<<<<< Updated upstream
-/*** Club ***/
-.club-item img {
-    transition: .5s;
-=======
 /*** Team ***/
 .team-item {
   box-shadow: 0 0 45px rgba(0, 0, 0, 0.08);
->>>>>>> Stashed changes
 }
 
-.club-item:hover img {
-    transform: scale(1.1);
-}
-/*** Team ***/
 .team-item img {
   transition: 0.5s;
 }
@@ -1269,8 +1259,6 @@ blockquote::before {
   transform: scale(1.1);
 }
 
-<<<<<<< Updated upstream
-=======
 .team-item .team-social {
   position: absolute;
   width: 0;
@@ -1300,7 +1288,6 @@ blockquote::before {
 .team-item:hover .team-social .btn {
   opacity: 1;
 }
->>>>>>> Stashed changes
 /*---------------------------------------
   SITE FOOTER              
 -----------------------------------------*/

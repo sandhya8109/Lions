@@ -67,14 +67,14 @@
                         <a class="nav-link click-scroll" href=""></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="./index.php">Home</a>
+                        <a class="nav-link click-scroll" href="./index.php" <?php echo ($currentPage === 'home') ? 'active' : ''; ?>>home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="./about.php">About</a>
+                        <a class="nav-link click-scroll" href="./about.php" <?php echo ($currentPage === 'about') ? 'active' : ''; ?>>About</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="./club.php">Club</a>
+                        <a class="nav-link click-scroll" href="./club.php" <?php echo ($currentPage === 'club') ? 'active' : ''; ?>>Club</a>
                     </li>
 
                     <li class="nav-item dropdown">
@@ -98,7 +98,7 @@
                             aria-expanded="false">District Officers</a>
 
                         <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                            <li><a class="dropdown-item" href="governor.php">Governor Team</a></li>
+                            <li><a class="dropdown-item" href="news.php">Governor Team</a></li>
 
                             <li><a class="dropdown-item" href="news-detail.php">Advisor Council</a></li>
                             <li><a class="dropdown-item" href="news-detail.php">Coordinators</a></li>

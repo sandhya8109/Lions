@@ -215,7 +215,7 @@ include('nav.php') ?>
                                 <h5 class="mb-3">Children Education</h5>
                                 <p>Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito</p>
                             </div>
-                            <a href="program.php" class="custom-btn btn">Read More</a>
+                            <a href="donate.php" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -230,7 +230,7 @@ include('nav.php') ?>
                                 <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus
                                     tempor</p>
                             </div>
-                            <a href="program.php" class="custom-btn btn">Read More</a>
+                            <a href="donate.php" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@ include('nav.php') ?>
                                 <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus
                                 </p>
                             </div>
-                            <a href="program.php" class="custom-btn btn">Read More</a>
+                            <a href="donate.php" class="custom-btn btn">Read More</a>
                         </div>
                     </div>
                 </div>
