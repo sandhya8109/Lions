@@ -1248,6 +1248,9 @@ blockquote::before {
 }
 
 /*** Club ***/
+.club-item{
+  box-shadow: 1px 2px 5px 6px rgba(235, 232, 232, 0.75);
+}
 .club-item img {
   transition: 0.5s;
 }
@@ -1256,6 +1259,10 @@ blockquote::before {
   transform: scale(1.1);
 }
 /*** Team ***/
+.team-item{
+  box-shadow: 1px 2px 5px 6px rgba(235, 232, 232, 0.75);
+}
+
 .team-item img {
   transition: 0.5s;
 }
